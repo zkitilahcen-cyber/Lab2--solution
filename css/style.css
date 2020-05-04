@@ -3,7 +3,6 @@ body {
   }
   
   .row div {
-    border: 1px solid transparent;
     padding: 6px;
   }
 
@@ -14,7 +13,7 @@ body {
 .col-lg-6, .col-lg-2 {
     font-weight: bold;
 }
-img {
+img.rounded-circle {
     float: right;
 }
 img.rounded {
