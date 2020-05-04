@@ -1,0 +1,22 @@
+body {
+    margin: 13px;
+  }
+  
+  .row div {
+    border: 1px solid transparent;
+    padding: 6px;
+  }
+
+.col-lg-1{
+    font-size: 12px ; 
+}
+
+.col-lg-6, .col-lg-2 {
+    font-weight: bold;
+}
+img {
+    float: right;
+}
+img.rounded {
+    float: left;
+}
